@@ -1,0 +1,288 @@
+Analysis name: SLA_Madison
+Column conditions: None
+Row conditions: Block, Procedure[Trial], Procedure[Block], SubTrial, Sex, Age, Procedure[SubTrial], Response.RESP, Response.RT, Running[SubTrial], GambleOutcome, GambleAmount, Amount1, Amount2, Certain, Rating, RatingOutcome
+Statistics: BothBlockInstructions.RT:Mean
+Filters: None
+Data file: SLA_v1a_withpractice_Other_8_11_16A_ORDER2-16-1
+File does not have data alterations.
+Block	Procedure[Trial]	Procedure[Block]	SubTrial	Sex	Age	Procedure[SubTrial]	Response.RESP	Response.RT	Running[SubTrial]	GambleOutcome	GambleAmount	Amount1	Amount2	Certain	Rating	RatingOutcome	Stats	
+1	PracticeTrials	Instructions	1	male	20	PracticeMixed	NULL	NULL	List14	won	$5.00	$5.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+1	PracticeTrials	Instructions	2	male	20	PracticeMixed	NULL	NULL	List14	lost	-$2.00	$4.00	-$2.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+1	PracticeTrials	Instructions	3	male	20	PracticeGain	NULL	NULL	List14	won	$7.00	$7.00	$0.00	$2.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+1	PracticeTrials	Instructions	4	male	20	PracticeGain	NULL	NULL	List14	lost	$0.00	$8.00	$0.00	$4.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	1	male	20	LASelfGain	1	243	List4	won	$10.00	$10.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	2	male	20	LASelfMixed	2	377	List4	lost	-$15.75	$9.00	-$15.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	3	male	20	LASelfMixed	2	1574	List4	lost	-$8.75	$10.00	-$8.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	4	male	20	LASelfMixed		0	List4	won	$8.00	$8.00	-$2.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	5	male	20	LASelfMixed	2	1290	List4	lost	-$12.00	$6.00	-$12.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	6	male	20	LASelfMixed	2	1913	List4	lost	-$18.75	$10.00	-$18.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	7	male	20	LASelfMixed	2	893	List4	won	$5.00	$5.00	-$8.13	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	8	male	20	LASelfGain	1	818	List4	lost	$0.00	$12.00	$0.00	$4.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	9	male	20	LASelfMixed		0	List4	won	$9.00	$9.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	10	male	20	LASelfGain	2	1670	List4	lost	$0.00	$22.00	$0.00	$13.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	11	male	20	LASelfMixed		0	List4	lost	-$7.00	$8.00	-$7.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	12	male	20	LASelfMixed	1	264	List4	won	$4.00	$4.00	-$8.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	13	male	20	LASelfGain		0	List4	won	$25.00	$25.00	$0.00	$9.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	14	male	20	LASelfMixed		0	List4	lost	-$3.75	$2.00	-$3.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	15	male	20	LASelfMixed	1	1785	List4	won	$2.00	$2.00	-$1.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	16	male	20	LASelfMixed	2	624	List4	won	$6.00	$6.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	17	male	20	LASelfGain	2	252	List4	won	$13.00	$13.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	18	male	20	LASelfMixed		0	List4	lost	-$4.00	$4.00	-$4.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	19	male	20	LASelfGain	1	704	List4	won	$7.00	$7.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	20	male	20	LASelfGain	1	814	List4	won	$3.25	$3.25	$0.00	$1.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	21	male	20	LASelfMixed	1	75	List4	won	$4.00	$4.00	-$1.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	22	male	20	LASelfGain	2	568	List4	lost	$0.00	$8.00	$0.00	$4.25	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	23	male	20	LASelfGain	2	806	List4	lost	$0.00	$17.00	$0.00	$9.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	24	male	20	LASelfMixed	1	180	List4	won	$12.00	$12.00	-$18.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	25	male	20	LASelfMixed	1	257	List4	lost	-$5.00	$5.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	26	male	20	LASelfGain	2	358	List4	won	$4.00	$4.00	$0.00	$2.25	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	27	male	20	LASelfMixed	1	340	List4	lost	-$9.00	$12.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	28	male	20	LASelfMixed	2	274	List4	won	$8.00	$8.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	29	male	20	LASelfMixed	1	568	List4	lost	-$4.38	$5.00	-$4.38	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self1	SelfTask	30	male	20	LASelfMixed	1	102	List4	lost	-$13.00	$8.00	-$13.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	1	male	20	LASelfMixed	1	285	List5	lost	-$2.25	$2.00	-$2.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	2	male	20	LASelfMixed	1	290	List5	won	$6.00	$6.00	-$4.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	3	male	20	LASelfMixed	2	512	List5	won	$2.00	$2.00	-$3.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	4	male	20	LASelfGain	2	541	List5	lost	$0.00	$22.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	5	male	20	LASelfMixed	1	458	List5	won	$9.00	$9.00	-$4.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	6	male	20	LASelfGain	2	320	List5	won	$17.00	$17.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	7	male	20	LASelfGain	1	334	List5	won	$4.00	$4.00	$0.00	$2.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	8	male	20	LASelfMixed	1	619	List5	lost	-$2.00	$4.00	-$2.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	9	male	20	LASelfGain	1	416	List5	won	$11.00	$11.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	10	male	20	LASelfGain	1	518	List5	lost	$0.00	$7.00	$0.00	$4.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	11	male	20	LASelfMixed	1	244	List5	lost	-$3.75	$10.00	-$3.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	12	male	20	LASelfMixed	2	426	List5	won	$12.00	$12.00	-$24.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	13	male	20	LASelfMixed	2	1880	List5	lost	-$10.50	$6.00	-$10.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	14	male	20	LASelfMixed	2	524	List5	lost	-$9.38	$5.00	-$9.38	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	15	male	20	LASelfMixed	1	618	List5	won	$8.00	$8.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	16	male	20	LASelfMixed	1	376	List5	won	$5.00	$5.00	-$3.13	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	17	male	20	LASelfGain	1	1006	List5	lost	$0.00	$30.00	$0.00	$12.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	18	male	20	LASelfMixed	1	884	List5	won	$4.00	$4.00	-$7.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	19	male	20	LASelfMixed	1	1129	List5	won	$10.00	$10.00	-$13.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	20	male	20	LASelfMixed	2	894	List5	lost	-$15.00	$8.00	-$15.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	21	male	20	LASelfGain	1	660	List5	won	$24.00	$24.00	$0.00	$12.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	22	male	20	LASelfMixed		0	List5	lost	-$15.00	$12.00	-$15.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	23	male	20	LASelfMixed	1	215	List5	lost	-$18.00	$9.00	-$18.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	24	male	20	LASelfGain	1	732	List5	won	$13.00	$13.00	$0.00	$5.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	25	male	20	LASelfMixed	1	506	List5	won	$2.00	$2.00	-$0.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	26	male	20	LASelfMixed	1	272	List5	lost	-$6.00	$12.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	27	male	20	LASelfGain	2	374	List5	lost	$0.00	$8.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	28	male	20	LASelfMixed	1	563	List5	won	$8.00	$8.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	29	male	20	LASelfMixed	1	657	List5	lost	-$5.00	$4.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self2	SelfTask	30	male	20	LASelfMixed	1	950	List5	lost	-$6.00	$6.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	1	male	20	LASelfMixed	1	394	List6	won	$9.00	$9.00	-$11.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	2	male	20	LASelfMixed	1	326	List6	won	$12.00	$12.00	-$21.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	3	male	20	LASelfMixed	1	148	List6	won	$5.00	$5.00	-$6.88	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	4	male	20	LASelfMixed	1	569	List6	lost	-$3.00	$12.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	5	male	20	LASelfGain	1	79	List6	won	$5.00	$5.00	$0.00	$2.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	6	male	20	LASelfMixed	1	484	List6	lost	-$6.75	$9.00	-$6.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	7	male	20	LASelfGain	1	874	List6	lost	$0.00	$26.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	8	male	20	LASelfMixed	1	368	List6	won	$8.00	$8.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	9	male	20	LASelfGain	1	829	List6	won	$19.00	$19.00	$0.00	$8.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	10	male	20	LASelfGain		0	List6	lost	$0.00	$25.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	11	male	20	LASelfMixed	1	407	List6	lost	-$1.88	$5.00	-$1.88	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	12	male	20	LASelfMixed	1	117	List6	lost	-$2.75	$2.00	-$2.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	13	male	20	LASelfMixed	1	11	List6	won	$2.00	$2.00	-$1.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	14	male	20	LASelfMixed		0	List6	lost	-$11.25	$10.00	-$11.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	15	male	20	LASelfGain	2	166	List6	lost	$0.00	$5.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	16	male	20	LASelfMixed	1	636	List6	won	$9.00	$9.00	-$2.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	17	male	20	LASelfMixed		0	List6	lost	-$11.00	$8.00	-$11.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	18	male	20	LASelfMixed	1	183	List6	won	$4.00	$4.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	19	male	20	LASelfMixed	1	53	List6	won	$6.00	$6.00	-$1.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	20	male	20	LASelfMixed	1	153	List6	lost	-$13.50	$9.00	-$13.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	21	male	20	LASelfMixed	1	223	List6	lost	-$5.63	$5.00	-$5.63	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	22	male	20	LASelfMixed	1	342	List6	lost	-$3.00	$6.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	23	male	20	LASelfMixed	1	252	List6	won	$10.00	$10.00	-$16.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	24	male	20	LASelfMixed	1	152	List6	won	$5.00	$5.00	-$2.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	25	male	20	LASelfGain	2	454	List6	lost	$0.00	$28.00	$0.00	$13.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	26	male	20	LASelfMixed	1	251	List6	won	$10.00	$10.00	-$6.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	27	male	20	LASelfGain	2	25	List6	lost	$0.00	$12.00	$0.00	$5.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	28	male	20	LASelfMixed	1	519	List6	lost	-$12.00	$12.00	-$12.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	29	male	20	LASelfMixed	1	53	List6	won	$4.00	$4.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+2	Self3	SelfTask	30	male	20	LASelfMixed	1	267	List6	won	$6.00	$6.00	-$7.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+3	Both1	BothTask	1	male	20	LABothMixed	2	416	List11	won	$8.00	$8.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	2	male	20	LABothMixed	1	838	List11	lost	-$3.75	$2.00	-$3.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	3	male	20	LABothGain	1	564	List11	won	$12.00	$12.00	$0.00	$4.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	4	male	20	LABothGain	2	376	List11	lost	$0.00	$22.00	$0.00	$13.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	5	male	20	LABothMixed	1	438	List11	lost	-$4.38	$5.00	-$4.38	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	6	male	20	LABothMixed	1	164	List11	lost	-$18.75	$10.00	-$18.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	7	male	20	LABothMixed	2	418	List11	won	$9.00	$9.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	8	male	20	LABothMixed	1	264	List11	lost	-$1.25	$2.00	-$1.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	9	male	20	LABothMixed	1	1228	List11	won	$4.00	$4.00	-$1.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	10	male	20	LABothMixed		0	List11	lost	-$13.00	$8.00	-$13.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	11	male	20	LABothMixed		0	List11	won	$8.00	$8.00	-$2.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	12	male	20	LABothMixed		0	List11	lost	-$12.00	$6.00	-$12.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	13	male	20	LABothMixed	1	123	List11	lost	-$9.00	$12.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	14	male	20	LABothMixed	1	57	List11	won	$6.00	$6.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	15	male	20	LABothGain	1	1359	List11	won	$3.25	$3.25	$0.00	$1.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	16	male	20	LABothGain	1	421	List11	won	$7.00	$7.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	17	male	20	LABothMixed	1	74	List11	lost	-$7.00	$8.00	-$7.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	18	male	20	LABothGain	2	303	List11	won	$25.00	$25.00	$0.00	$9.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	19	male	20	LABothGain	1	317	List11	lost	$0.00	$8.00	$0.00	$4.25	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	20	male	20	LABothMixed	1	530	List11	lost	-$8.75	$10.00	-$8.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	21	male	20	LABothMixed	1	360	List11	won	$4.00	$4.00	-$8.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	22	male	20	LABothGain	1	269	List11	lost	$0.00	$17.00	$0.00	$9.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	23	male	20	LABothMixed	1	155	List11	won	$12.00	$12.00	-$18.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	24	male	20	LABothGain	1	80	List11	won	$10.00	$10.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	25	male	20	LABothGain	2	639	List11	lost	$0.00	$13.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	26	male	20	LABothMixed	2	508	List11	lost	-$15.75	$9.00	-$15.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	27	male	20	LABothMixed	2	377	List11	won	$5.00	$5.00	-$8.13	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	28	male	20	LABothMixed	1	55	List11	won	$4.00	$4.00	-$4.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	29	male	20	LABothGain	1	1605	List11	won	$4.00	$4.00	$0.00	$2.25	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both1	BothTask	30	male	20	LABothMixed	1	450	List11	lost	-$5.00	$5.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	1	male	20	LABothGain	2	76	List12	lost	$0.00	$30.00	$0.00	$12.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	2	male	20	LABothMixed		0	List12	lost	-$6.00	$12.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	3	male	20	LABothMixed	1	184	List12	won	$4.00	$4.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	4	male	20	LABothGain	2	404	List12	lost	$0.00	$17.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	5	male	20	LABothMixed	1	170	List12	won	$2.00	$2.00	-$3.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	6	male	20	LABothMixed	1	144	List12	lost	-$6.00	$6.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	7	male	20	LABothMixed		0	List12	won	$6.00	$6.00	-$4.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	8	male	20	LABothMixed	1	371	List12	lost	-$2.00	$4.00	-$2.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	9	male	20	LABothGain		0	List12	won	$4.00	$4.00	$0.00	$2.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	10	male	20	LABothMixed	1	805	List12	won	$9.00	$9.00	-$4.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	11	male	20	LABothMixed	1	347	List12	lost	-$24.00	$12.00	-$24.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	12	male	20	LABothGain	2	522	List12	won	$22.00	$22.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	13	male	20	LABothMixed	1	503	List12	won	$4.00	$4.00	-$7.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	14	male	20	LABothMixed	1	196	List12	won	$2.00	$2.00	-$0.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	15	male	20	LABothMixed	1	922	List12	lost	-$2.25	$2.00	-$2.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	16	male	20	LABothMixed	1	136	List12	lost	-$9.38	$5.00	-$9.38	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	17	male	20	LABothMixed		0	List12	lost	-$15.00	$8.00	-$15.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	18	male	20	LABothMixed	1	315	List12	won	$8.00	$8.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	19	male	20	LABothMixed	1	233	List12	won	$10.00	$10.00	-$13.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	20	male	20	LABothGain	2	447	List12	lost	$0.00	$8.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	21	male	20	LABothMixed	1	325	List12	won	$8.00	$8.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	22	male	20	LABothGain	2	355	List12	won	$13.00	$13.00	$0.00	$5.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	23	male	20	LABothGain	2	447	List12	won	$24.00	$24.00	$0.00	$12.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	24	male	20	LABothMixed	1	485	List12	lost	-$18.00	$9.00	-$18.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	25	male	20	LABothGain	2	371	List12	lost	$0.00	$7.00	$0.00	$4.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	26	male	20	LABothMixed	1	304	List12	lost	-$3.75	$10.00	-$3.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	27	male	20	LABothMixed	1	101	List12	won	$5.00	$5.00	-$3.13	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	28	male	20	LABothMixed		0	List12	lost	-$15.00	$12.00	-$15.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	29	male	20	LABothMixed	1	425	List12	lost	-$10.50	$6.00	-$10.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both2	BothTask	30	male	20	LABothGain	2	359	List12	won	$11.00	$11.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	1	male	20	LABothMixed	1	451	List13	won	$9.00	$9.00	-$11.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	2	male	20	LABothMixed	1	50	List13	won	$6.00	$6.00	-$7.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	3	male	20	LABothMixed	2	671	List13	lost	-$21.00	$12.00	-$21.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	4	male	20	LABothGain	2	853	List13	won	$19.00	$19.00	$0.00	$8.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	5	male	20	LABothGain	2	115	List13	lost	$0.00	$12.00	$0.00	$5.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	6	male	20	LABothMixed	2	448	List13	lost	-$13.50	$9.00	-$13.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	7	male	20	LABothMixed	1	70	List13	won	$10.00	$10.00	-$16.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	8	male	20	LABothMixed	1	803	List13	lost	-$3.00	$6.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	9	male	20	LABothMixed	2	393	List13	lost	-$12.00	$12.00	-$12.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	10	male	20	LABothMixed	1	1334	List13	won	$5.00	$5.00	-$6.88	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	11	male	20	LABothMixed	1	52	List13	lost	-$2.75	$2.00	-$2.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	12	male	20	LABothMixed	1	570	List13	lost	-$3.00	$12.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	13	male	20	LABothMixed	1	79	List13	won	$5.00	$5.00	-$2.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	14	male	20	LABothMixed	1	141	List13	lost	-$5.63	$5.00	-$5.63	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	15	male	20	LABothMixed	1	314	List13	lost	-$3.00	$4.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	16	male	20	LABothMixed	1	312	List13	won	$4.00	$4.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	17	male	20	LABothGain	2	1590	List13	won	$5.00	$5.00	$0.00	$2.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	18	male	20	LABothMixed	1	260	List13	won	$9.00	$9.00	-$2.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	19	male	20	LABothGain	2	570	List13	lost	$0.00	$26.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	20	male	20	LABothMixed	1	159	List13	won	$6.00	$6.00	-$1.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	21	male	20	LABothMixed	1	677	List13	won	$10.00	$10.00	-$6.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	22	male	20	LABothMixed	1	426	List13	lost	-$6.75	$9.00	-$6.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	23	male	20	LABothMixed		0	List13	won	$8.00	$8.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	24	male	20	LABothMixed		0	List13	lost	-$11.25	$10.00	-$11.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	25	male	20	LABothGain	2	162	List13	won	$5.00	$5.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	26	male	20	LABothMixed	1	1576	List13	won	$2.00	$2.00	-$1.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	27	male	20	LABothGain	2	605	List13	lost	$0.00	$28.00	$0.00	$13.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	28	male	20	LABothMixed	1	970	List13	won	$8.00	$8.00	-$11.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	29	male	20	LABothGain	2	392	List13	lost	$0.00	$25.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+3	Both3	BothTask	30	male	20	LABothMixed	1	470	List13	lost	-$1.88	$5.00	-$1.88	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	1294.00
+4	Other1	OtherTask	1	male	20	LAOtherMixed	1	196	List7	lost	-$3.75	$2.00	-$3.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	2	male	20	LAOtherGain	1	402	List7	won	$17.00	$17.00	$0.00	$9.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	3	male	20	LAOtherMixed	1	568	List7	lost	-$15.75	$9.00	-$15.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	4	male	20	LAOtherMixed	1	292	List7	lost	-$8.75	$10.00	-$8.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	5	male	20	LAOtherGain	1	138	List7	won	$3.25	$3.25	$0.00	$1.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	6	male	20	LAOtherMixed	1	192	List7	lost	-$12.00	$6.00	-$12.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	7	male	20	LAOtherMixed	2	517	List7	won	$6.00	$6.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	8	male	20	LAOtherMixed	1	539	List7	won	$12.00	$12.00	-$18.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	9	male	20	LAOtherMixed	1	1713	List7	won	$9.00	$9.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	10	male	20	LAOtherGain	1	1086	List7	lost	$0.00	$13.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	11	male	20	LAOtherGain	1	324	List7	lost	$0.00	$22.00	$0.00	$13.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	12	male	20	LAOtherGain	1	674	List7	won	$7.00	$7.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	13	male	20	LAOtherMixed	1	142	List7	won	$5.00	$5.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	14	male	20	LAOtherMixed		0	List7	lost	-$9.00	$12.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	15	male	20	LAOtherMixed	1	130	List7	won	$4.00	$4.00	-$4.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	16	male	20	LAOtherGain	1	664	List7	lost	$0.00	$8.00	$0.00	$4.25	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	17	male	20	LAOtherGain	1	110	List7	won	$10.00	$10.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	18	male	20	LAOtherMixed	1	203	List7	lost	-$13.00	$8.00	-$13.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	19	male	20	LAOtherGain	1	33	List7	lost	$0.00	$25.00	$0.00	$9.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	20	male	20	LAOtherMixed	1	310	List7	won	$4.00	$4.00	-$8.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	21	male	20	LAOtherMixed	1	428	List7	lost	-$1.25	$2.00	-$1.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	22	male	20	LAOtherMixed	1	281	List7	won	$4.00	$4.00	-$1.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	23	male	20	LAOtherMixed	1	79	List7	won	$8.00	$8.00	-$9.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	24	male	20	LAOtherMixed	1	124	List7	lost	-$18.75	$10.00	-$18.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	25	male	20	LAOtherGain	1	354	List7	lost	$0.00	$12.00	$0.00	$4.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	26	male	20	LAOtherMixed	1	288	List7	won	$8.00	$8.00	-$2.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	27	male	20	LAOtherMixed	1	525	List7	lost	-$7.00	$8.00	-$7.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	28	male	20	LAOtherGain	1	314	List7	won	$4.00	$4.00	$0.00	$2.25	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	29	male	20	LAOtherMixed	1	352	List7	won	$5.00	$5.00	-$8.13	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other1	OtherTask	30	male	20	LAOtherMixed	1	159	List7	lost	-$4.38	$5.00	-$4.38	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	1	male	20	LAOtherGain	1	92	List8	lost	$0.00	$17.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	2	male	20	LAOtherMixed	1	66	List8	won	$5.00	$5.00	-$3.13	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	3	male	20	LAOtherMixed	1	568	List8	won	$9.00	$9.00	-$4.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	4	male	20	LAOtherMixed	1	518	List8	lost	-$9.38	$5.00	-$9.38	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	5	male	20	LAOtherMixed	1	212	List8	lost	-$18.00	$9.00	-$18.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	6	male	20	LAOtherMixed	1	465	List8	won	$2.00	$2.00	-$3.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	7	male	20	LAOtherGain	2	438	List8	lost	$0.00	$7.00	$0.00	$4.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	8	male	20	LAOtherMixed	1	156	List8	lost	-$3.75	$10.00	-$3.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	9	male	20	LAOtherMixed	2	66	List8	won	$12.00	$12.00	-$24.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	10	male	20	LAOtherMixed	2	119	List8	won	$4.00	$4.00	-$7.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	11	male	20	LAOtherGain	1	92	List8	lost	$0.00	$11.00	$0.00	$6.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	12	male	20	LAOtherMixed	2	339	List8	lost	-$13.75	$10.00	-$13.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	13	male	20	LAOtherMixed	1	185	List8	won	$2.00	$2.00	-$0.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	14	male	20	LAOtherMixed	1	734	List8	won	$8.00	$8.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	15	male	20	LAOtherMixed	1	11	List8	lost	-$15.00	$8.00	-$15.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	16	male	20	LAOtherMixed	1	17	List8	lost	-$5.00	$4.00	-$5.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	17	male	20	LAOtherGain	1	927	List8	won	$13.00	$13.00	$0.00	$5.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	18	male	20	LAOtherMixed	1	1157	List8	lost	-$2.25	$2.00	-$2.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	19	male	20	LAOtherMixed	1	139	List8	won	$8.00	$8.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	20	male	20	LAOtherGain	1	199	List8	won	$4.00	$4.00	$0.00	$2.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	21	male	20	LAOtherGain	2	165	List8	won	$24.00	$24.00	$0.00	$12.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	22	male	20	LAOtherMixed	1	34	List8	lost	-$15.00	$12.00	-$15.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	23	male	20	LAOtherGain	1	1000	List8	won	$22.00	$22.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	24	male	20	LAOtherGain	2	669	List8	lost	$0.00	$30.00	$0.00	$12.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	25	male	20	LAOtherMixed	1	115	List8	lost	-$2.00	$4.00	-$2.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	26	male	20	LAOtherMixed	1	136	List8	won	$6.00	$6.00	-$4.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	27	male	20	LAOtherMixed	1	38	List8	lost	-$6.00	$6.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	28	male	20	LAOtherMixed	1	11	List8	won	$6.00	$6.00	-$10.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	29	male	20	LAOtherGain	1	289	List8	lost	$0.00	$8.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other2	OtherTask	30	male	20	LAOtherMixed	1	38	List8	won	$12.00	$12.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	1	male	20	LAOtherMixed	2	318	List9	won	$12.00	$12.00	-$21.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	2	male	20	LAOtherGain	2	308	List9	lost	$0.00	$28.00	$0.00	$13.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	3	male	20	LAOtherMixed	1	25	List9	won	$6.00	$6.00	-$1.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	4	male	20	LAOtherMixed	1	398	List9	lost	-$11.00	$8.00	-$11.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	5	male	20	LAOtherMixed	1	196	List9	lost	-$3.00	$6.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	6	male	20	LAOtherGain	2	714	List9	won	$25.00	$25.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	7	male	20	LAOtherMixed	1	231	List9	lost	-$11.25	$10.00	-$11.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	8	male	20	LAOtherMixed	1	341	List9	lost	-$1.88	$5.00	-$1.88	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	9	male	20	LAOtherMixed	1	131	List9	won	$5.00	$5.00	-$2.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	10	male	20	LAOtherMixed	1	257	List9	lost	-$13.50	$9.00	-$13.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	11	male	20	LAOtherGain	2	566	List9	won	$19.00	$19.00	$0.00	$8.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	12	male	20	LAOtherMixed	1	99	List9	won	$9.00	$9.00	-$2.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	13	male	20	LAOtherMixed	1	177	List9	lost	-$2.75	$2.00	-$2.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	14	male	20	LAOtherMixed	1	230	List9	won	$10.00	$10.00	-$6.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	15	male	20	LAOtherMixed	1	52	List9	won	$4.00	$4.00	-$6.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	16	male	20	LAOtherMixed	1	240	List9	lost	-$3.00	$12.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	17	male	20	LAOtherMixed	1	551	List9	won	$10.00	$10.00	-$16.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	18	male	20	LAOtherGain	2	69	List9	lost	$0.00	$12.00	$0.00	$5.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	19	male	20	LAOtherMixed	1	346	List9	lost	-$11.25	$9.00	-$11.25	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	20	male	20	LAOtherMixed	1	224	List9	won	$4.00	$4.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	21	male	20	LAOtherMixed	1	149	List9	won	$5.00	$5.00	-$6.88	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	22	male	20	LAOtherMixed	1	195	List9	lost	-$6.75	$9.00	-$6.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	23	male	20	LAOtherMixed	1	161	List9	lost	-$12.00	$12.00	-$12.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	24	male	20	LAOtherMixed	1	215	List9	won	$2.00	$2.00	-$1.75	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	25	male	20	LAOtherGain	1	860	List9	lost	$0.00	$5.00	$0.00	$3.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	26	male	20	LAOtherGain	2	761	List9	won	$5.00	$5.00	$0.00	$2.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	27	male	20	LAOtherGain	1	215	List9	lost	$0.00	$26.00	$0.00	$10.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	28	male	20	LAOtherMixed	1	181	List9	lost	-$5.63	$5.00	-$5.63	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	29	male	20	LAOtherMixed	1	291	List9	won	$6.00	$6.00	-$7.50	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+4	Other3	OtherTask	30	male	20	LAOtherMixed	1	175	List9	won	$8.00	$8.00	-$3.00	$0.00	NULL	NULL	Mean BothBlockInstructions.RT	N/A
+5	otherratings	Ratings	NULL	male	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	4	losing	Mean BothBlockInstructions.RT	N/A
+5	otherratings	Ratings	NULL	male	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	5	winning	Mean BothBlockInstructions.RT	N/A
+5	selfratings	Ratings	NULL	male	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	2	losing	Mean BothBlockInstructions.RT	N/A
+5	selfratings	Ratings	NULL	male	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	7	winning	Mean BothBlockInstructions.RT	N/A
+5	sharedratings	Ratings	NULL	male	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	3	losses	Mean BothBlockInstructions.RT	N/A
+5	sharedratings	Ratings	NULL	male	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	6	wins	Mean BothBlockInstructions.RT	N/A
